@@ -2,3 +2,5 @@
 Practicing with Git!
 
 Brad's edits
+
+Bri's edits
